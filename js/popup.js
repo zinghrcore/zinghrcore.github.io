@@ -1,1 +1,3 @@
-alert("How are you?")
+function showNewFeatures(){
+    console.info("This is dummy data");
+}
