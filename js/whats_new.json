@@ -16,6 +16,7 @@
             "video_src":"",
             "thumbnail":""
         }],
+        "navigation":"flashcard",
         "link_for_more_details":"view more button if link there and user wll navigate to that site in system browser"
 
     },
@@ -30,8 +31,8 @@
             "video_src":"",
             "thumbnail":""
         }],
+        "navigation":"flashcard",
         "link_for_more_details":"view more button if link there and user wll navigate to that site in system browser"
-
     }]
 },
 {
