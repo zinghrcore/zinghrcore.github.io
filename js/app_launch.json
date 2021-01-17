@@ -7,14 +7,14 @@
         "showWhatsNew":true,
         "isAppMaintenanceOn":true,
         "messageOfAppMaintenance":"This is a test message",
-        "whichPlatformForWhatsNew":["android","iOS"], /*if its empty then it is for all platform*/
-        "appVersionForWhatsNew":[],//enter app version like 4.11.2, if its empty then it is for all version 
-        "whichPlatformForMaintenanceMessage":["android","iOS"], /*if its empty then it is for all platform*/
-        "appVersionForMaintenanceMessage":[],//enter app version like 4.11.2, if its empty then it is for all version 
+        "whichPlatformForWhatsNew":["android","iOS"],
+        "appVersionForWhatsNew":[],
+        "whichPlatformForMaintenanceMessage":["android","iOS"],
+        "appVersionForMaintenanceMessage":[],
         "showAnyAppLaunchMessage":true,
         "appLaunchMessage":"This is a test message for app launch",
-        "whichPlatformForAppLaunchMessage":["android","iOS"], /*if its empty then it is for all platform*/
-        "appVersionForAppLaunchMessage":[]//enter app version like 4.11.2, if its empty then it is for all version 
+        "whichPlatformForAppLaunchMessage":["android","iOS"],
+        "appVersionForAppLaunchMessage":[]
         
     }
 }
