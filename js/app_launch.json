@@ -3,7 +3,7 @@
     "message":"success",
     "data":{
         "whatsNewJsonPath":"https://zinghrcore.github.io/js/whats_new.json",
-        "isAppMaintenanceOn":true,
+        "isAppMaintenanceOn":false,
         "showAnyAppLaunchMessage":false,
         "showWhatsNew":true,
         "messageOfAppMaintenance":"Application under maintenance break. Please try after 1 hour",
