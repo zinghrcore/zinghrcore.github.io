@@ -8,9 +8,9 @@
 			"platform": "android",
 			"release_date": "21 Dec 2020",
 			"features": [{
-					"title": "<h2><h2>",
-					"sub_title": "<h3><h3>",
-					"description": "<p></p>",
+					"title": "<h2>Pin Menu<h2>",
+					"sub_title": "<h3>Arrange menu according to your need<h3>",
+					"description": "<p>Now you can arrange menu, pin them and sort them according to your need. This will auto sync across device. </p>",
 					"graphics": ["blob-path1", "blob-path2"],
 					"notes": "Notes to give some extra information which not highly required to know by user",
 					"video_embedded": [{
