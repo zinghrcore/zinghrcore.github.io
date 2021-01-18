@@ -3,14 +3,14 @@
     "message":"success",
     "data":{
         "whatsNewJsonPath":"https://zinghrcore.github.io/js/whats_new.json",
-        "showWhatsNew":true,
         "isAppMaintenanceOn":false,
+        "showAnyAppLaunchMessage":false,
+        "showWhatsNew":true,
         "messageOfAppMaintenance":"This is a test message",
         "whichPlatformForWhatsNew":["android","iOS"],
         "appVersionForWhatsNew":[],
         "whichPlatformForMaintenanceMessage":["android","iOS"],
         "appVersionForMaintenanceMessage":[],
-        "showAnyAppLaunchMessage":true,
         "appLaunchMessage":"This is a test message for app launch",
         "whichPlatformForAppLaunchMessage":[],
         "appVersionForAppLaunchMessage":[]
