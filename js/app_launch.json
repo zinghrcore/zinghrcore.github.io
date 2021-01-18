@@ -6,7 +6,7 @@
         "isAppMaintenanceOn":true,
         "showAnyAppLaunchMessage":false,
         "showWhatsNew":true,
-        "messageOfAppMaintenance":"This is a test message",
+        "messageOfAppMaintenance":"Application under maintenance break. Please try after 1 hour",
         "whichPlatformForWhatsNew":["android","iOS"],
         "appVersionForWhatsNew":[],
         "whichPlatformForMaintenanceMessage":[],
