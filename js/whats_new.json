@@ -1,7 +1,8 @@
 {
 	"code": 1,
 	"message": "sucess",
-	"data": [{
+	"data": [
+        {
 			"app_version": "4.11.2",
 			"app_code_version": "867",
 			"order": "1",
@@ -23,7 +24,21 @@
 
 				},
 				{
-					"title": "<h2><h2>",
+					"title": "<h2>Face Attendance<h2>",
+					"sub_title": "<h3><h3>",
+					"description": "<p></p>",
+					"graphics": ["blob-path1", "blob-path2"],
+					"notes": "Notes to give some extra information which not highly required to know by user",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": "view more button if link there and user wll navigate to that site in system browser"
+				},
+                {
+					"title": "<h2>Investment improvements<h2>",
 					"sub_title": "<h3><h3>",
 					"description": "<p></p>",
 					"graphics": ["blob-path1", "blob-path2"],
