@@ -12,7 +12,7 @@
 					"title": "Pin Menu",
 					"sub_title": "Arrange menu according to your need",
 					"description": "Now you can arrange menu, pin them and sort them according to your need. This will auto sync across device.",
-					"graphics": [],
+					"graphics": ["https://zinghrcore.github.io/images/pin-menu1.png"],
 					"notes": "",
 					"video_embedded": [{
 						"title": "",
