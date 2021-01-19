@@ -50,6 +50,34 @@
 					}],
 					"navigation": "BulletPoints",
 					"link_for_more_details": ""
+				},
+                {
+					"title": "OKR",
+					"sub_title": "Digital way of Goals-setting and Tracking with Outcomes",
+					"description": "Objectives and key results is a goal-setting framework for defining and tracking objectives and their outcomes.",
+					"graphics": [],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+                {
+					"title": "TPL E-PMS Evaluation PDF",
+					"sub_title": "Download E-PMS digital evaluation PDF",
+					"description": "Now users can download their E-PMD goals evaluation PDF",
+					"graphics": [],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
 				}
 			]
 		}
