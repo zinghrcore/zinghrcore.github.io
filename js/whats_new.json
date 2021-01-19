@@ -3,53 +3,53 @@
 	"message": "sucess",
 	"data": [
         {
-			"app_version": "4.11.2",
+			"app_version": "4.12.0",
 			"app_code_version": "867",
 			"order": "1",
-			"platform": "android",
-			"release_date": "21 Dec 2020",
+			"platform": "android and iOS",
+			"release_date": "19 Jan 2021",
 			"features": [{
-					"title": "<h2>Pin Menu<h2>",
-					"sub_title": "<h3>Arrange menu according to your need<h3>",
-					"description": "<p>Now you can arrange menu, pin them and sort them according to your need. This will auto sync across device. </p>",
-					"graphics": ["blob-path1", "blob-path2"],
-					"notes": "Notes to give some extra information which not highly required to know by user",
+					"title": "Pin Menu",
+					"sub_title": "Arrange menu according to your need",
+					"description": "Now you can arrange menu, pin them and sort them according to your need. This will auto sync across device.",
+					"graphics": [],
+					"notes": "",
 					"video_embedded": [{
 						"title": "",
 						"video_src": "",
 						"thumbnail": ""
 					}],
 					"navigation": "flashcard",
-					"link_for_more_details": "view more button if link there and user wll navigate to that site in system browser"
+					"link_for_more_details": ""
 
 				},
 				{
-					"title": "<h2>Face Attendance<h2>",
-					"sub_title": "<h3><h3>",
-					"description": "<p></p>",
-					"graphics": ["blob-path1", "blob-path2"],
-					"notes": "Notes to give some extra information which not highly required to know by user",
+					"title": "Face Attendance",
+					"sub_title": "Mark your attendance by just submit your selfie",
+					"description": "Register your face, register your subordinates face attendance, take attendance and approve face registration IDs from your on login.",
+					"graphics": [],
+					"notes": "",
 					"video_embedded": [{
 						"title": "",
 						"video_src": "",
 						"thumbnail": ""
 					}],
 					"navigation": "BulletPoints",
-					"link_for_more_details": "view more button if link there and user wll navigate to that site in system browser"
+					"link_for_more_details": ""
 				},
                 {
-					"title": "<h2>Investment improvements<h2>",
-					"sub_title": "<h3><h3>",
-					"description": "<p></p>",
-					"graphics": ["blob-path1", "blob-path2"],
-					"notes": "Notes to give some extra information which not highly required to know by user",
+					"title": "Digital ID",
+					"sub_title": "Digital ID with continuous scanning",
+					"description": "Now Digital ID have continuous scanning with 4 second timer",
+					"graphics": [],
+					"notes": "",
 					"video_embedded": [{
 						"title": "",
 						"video_src": "",
 						"thumbnail": ""
 					}],
 					"navigation": "BulletPoints",
-					"link_for_more_details": "view more button if link there and user wll navigate to that site in system browser"
+					"link_for_more_details": ""
 				}
 			]
 		}
