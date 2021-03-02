@@ -3,11 +3,11 @@
 	"message": "sucess",
 	"data": [
         {
-			"app_version": "4.12.0",
-			"app_code_version": "867",
+			"app_version": "4.13.0",
+			"app_code_version": "874",
 			"order": "1",
 			"platform": "android and iOS",
-			"release_date": "19 Jan 2021",
+			"release_date": "27 Feb 2021",
 			"features": [{
 					"title": "Pin Menu",
 					"sub_title": "Arrange menu according to your need",
