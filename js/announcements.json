@@ -1,28 +1,28 @@
 [
   {
-    "startDate":"2021-01-20",
-    "endDate":"2021-01-26",
-    "isActive":true,
+    "startDate": "2021-01-20",
+    "endDate": "2021-01-26",
+    "isActive": true,
     "type": "carousel",
-   "url": "https://www.linkedin.com/feed/update/urn:li:activity:6757514651120009216/",
-   "carouselContent":[{
-    "startDate":"2021-01-20",
-    "endDate":"2021-01-26",
-    "isActive":true,
-    "type": "video",
-    "mediaUrl": "https://dms.licdn.com/playlist/C4E05AQEmyg_uUqzdXA/mp4-720p-30fp-crf28/0/1615019529544?e=1615316400&v=beta&t=po-gtOzqvSBGZu-8P0fHGnR-nELnrlkEdqRxJySmDVQ",
     "url": "https://www.linkedin.com/feed/update/urn:li:activity:6757514651120009216/",
-    
-  },{
-    "startDate":"2021-01-20",
-    "endDate":"2021-01-26",
-    "isActive":true,
-    "type": "image",
-    "mediaUrl": "https://media-exp1.licdn.com/dms/image/C4E22AQFts79OWfmwPQ/feedshare-shrink_1280/0/1615205905019?e=1617840000&v=beta&t=RvN7NQ10ZkCrCYarb9pR5DGGJP5wROcMfVRqeJPZ4b4",
-    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6757514651120009216/",
-    
-  }],
-    "title":"Outcomation"
-    
+    "carouselContent": [
+      {
+        "startDate": "2021-01-20",
+        "endDate": "2021-01-26",
+        "isActive": true,
+        "type": "video",
+        "mediaUrl": "https://dms.licdn.com/playlist/C4E05AQEmyg_uUqzdXA/mp4-720p-30fp-crf28/0/1615019529544?e=1615316400&v=beta&t=po-gtOzqvSBGZu-8P0fHGnR-nELnrlkEdqRxJySmDVQ",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6757514651120009216/"
+      },
+      {
+        "startDate": "2021-01-20",
+        "endDate": "2021-01-26",
+        "isActive": true,
+        "type": "image",
+        "mediaUrl": "https://media-exp1.licdn.com/dms/image/C4E22AQFts79OWfmwPQ/feedshare-shrink_1280/0/1615205905019?e=1617840000&v=beta&t=RvN7NQ10ZkCrCYarb9pR5DGGJP5wROcMfVRqeJPZ4b4",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6757514651120009216/"
+      }
+    ],
+    "title": "Outcomation"
   }
 ]
