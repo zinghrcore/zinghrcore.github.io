@@ -12,7 +12,8 @@ Nnly single object is supported right now in main json array, although we can us
   "startDate": "2021-01-20",
   "endDate": "2021-01-26",
   "isActive": true,
-  "caption": "", //caption to show after the content
+  "title":"", // title to show on popup header (optional)
+  "caption": "", //caption to show after the content (optional)
   "url": "https://www.zinghr.com/", //url to redirect on click of content
   "type": "img/image",
   "mediaUrl":"url of image content",
@@ -28,7 +29,8 @@ only playable video url supported, for embed contents e.g. youtube/facebook/twit
   "startDate": "2021-01-20",
   "endDate": "2021-01-26",
   "isActive": true,
-  "caption": "", //caption to show after the content
+  "title":"", // title to show on popup header (optional)
+  "caption": "", //caption to show after the content (optional)
   "url": "https://www.zinghr.com/", //url to redirect on click of content
   "type": "video",
   "mediaUrl":"url of video content",
@@ -44,7 +46,8 @@ This is basically iframe embed
   "startDate": "2021-01-20",
   "endDate": "2021-01-26",
   "isActive": true,
-  "caption": "", //caption to show after the content
+  "title":"", // title to show on popup header (optional)
+  "caption": "", //caption to show after the content (optional)
   "url": "https://www.zinghr.com/", //url to redirect on click of content
   "type": "embed",
   "mediaUrl":"url of iframe content"
@@ -57,7 +60,8 @@ You can put some html content, if it is big content then iframe embeding is pref
   "startDate": "2021-01-20",
   "endDate": "2021-01-26",
   "isActive": true,
-  "caption": "", //caption to show after the content
+  "title":"", // title to show on popup header (optional)
+  "caption": "", //caption to show after the content (optional)
   "url": "https://www.zinghr.com/", //url to redirect on click of content
   "type": "html",
   "htmlContent":"valid html content"
@@ -71,7 +75,8 @@ in carousal type you can put all above contents in the form of sliders
   "startDate": "2021-01-20",
   "endDate": "2021-01-26",
   "isActive": true,
-  "caption": "", //caption to show after the content
+  "title":"", // title to show on popup header (optional)
+  "caption": "", //caption to show after the content (optional)
   "url": "https://www.zinghr.com/", //url to redirect on click of content
   "type": "carousel",
   "carouselContent":[<array-of-object-of-above-type-contents>]
