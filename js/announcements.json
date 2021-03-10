@@ -4,14 +4,14 @@
     "endDate": "2021-01-26",
     "isActive": true,
     "type": "carousel",
-    "url": "https://botfirst.zinghr.com/botclient.html",
+    "url": "https://botfirst.zinghr.com/botclient.html?botType=micro",
     "carouselContent": [
       {
         "startDate": "2021-01-20",
         "endDate": "2021-01-26",
         "isActive": true,
         "type": "img",
-        "url": "https://botfirst.zinghr.com/botclient.html",
+        "url": "https://botfirst.zinghr.com/botclient.html?botType=micro",
         "mediaUrl": "https://media-exp1.licdn.com/dms/image/C5622AQFjCstbmc4ZJA/feedshare-shrink_1280/0/1614841092272?e=1617840000&v=beta&t=HyXohSVPtsL-ZCaZ5FHmf096gjtOMXvCCdTxXZmST1c"
       },
       {
