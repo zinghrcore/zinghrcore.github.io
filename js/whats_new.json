@@ -11,7 +11,7 @@
 			"features": [
 				{
 					"title": "Face Attendance continuous mode",
-					"sub_title": "Mark your attendance by just submit your selfie",
+					"sub_title": "Real time attendance by continuous face scanning",
 					"description": "Register your face, register your subordinates face attendance, take attendance and approve face registration IDs from your on login.",
 					"graphics": ["https://zinghrcore.github.io/images/face-attendance1.png","https://zinghrcore.github.io/images/face-attendance2.png","https://zinghrcore.github.io/images/face-attendance3.png"],
 					"notes": "",
@@ -53,8 +53,8 @@
 				},
                 {
 					"title": "Leave cancellation",
-					"sub_title": "Now applied leave can be cancel from. mobile app",
-					"description": "Users can cancel applied leaves from mobile also. User can cancel approved as well if some plan get change but approver flow will run as per configuration.",
+					"sub_title": "Now applied leave can be cancel from mobile app",
+					"description": "Users can cancel applied leaves from mobile also and can cancel approved as well and approver flow will run as per configuration.",
 					"graphics": [],
 					"notes": "",
 					"video_embedded": [{
