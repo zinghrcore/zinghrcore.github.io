@@ -3,28 +3,14 @@
 	"message": "sucess",
 	"data": [
         {
-			"app_version": "4.13.0",
-			"app_code_version": "874",
+			"app_version": "4.14.0",
+			"app_code_version": "876",
 			"order": "1",
 			"platform": "android and iOS",
-			"release_date": "27 Feb 2021",
-			"features": [{
-					"title": "Pin Menu",
-					"sub_title": "Arrange menu according to your need",
-					"description": "Now you can arrange menu, pin them and sort them according to your need. This will auto sync across all your devices.",
-					"graphics": ["https://zinghrcore.github.io/images/pin-menu1.png","https://zinghrcore.github.io/images/pin-menu2.png","https://zinghrcore.github.io/images/pin-menu3.png"],
-					"notes": "",
-					"video_embedded": [{
-						"title": "",
-						"video_src": "",
-						"thumbnail": ""
-					}],
-					"navigation": "flashcard",
-					"link_for_more_details": ""
-
-				},
+			"release_date": "31 March 2021",
+			"features": [
 				{
-					"title": "Face Attendance",
+					"title": "Face Attendance continuous mode",
 					"sub_title": "Mark your attendance by just submit your selfie",
 					"description": "Register your face, register your subordinates face attendance, take attendance and approve face registration IDs from your on login.",
 					"graphics": ["https://zinghrcore.github.io/images/face-attendance1.png","https://zinghrcore.github.io/images/face-attendance2.png","https://zinghrcore.github.io/images/face-attendance3.png"],
@@ -66,9 +52,9 @@
 					"link_for_more_details": ""
 				},
                 {
-					"title": "TPL E-PMS Evaluation PDF",
-					"sub_title": "Download E-PMS digital evaluation PDF",
-					"description": "Now users can download their E-PMD goals evaluation PDF",
+					"title": "Leave cancellation",
+					"sub_title": "Now applied leave can be cancel from. mobile app",
+					"description": "Users can cancel applied leaves from mobile also. User can cancel approved as well if some plan get change but approver flow will run as per configuration.",
 					"graphics": [],
 					"notes": "",
 					"video_embedded": [{
@@ -78,6 +64,35 @@
 					}],
 					"navigation": "BulletPoints",
 					"link_for_more_details": ""
+				},
+                {
+					"title": "E-PMS Evaluation and with promotion recommendation",
+					"sub_title": "Promotion recommendation now part of evaluation",
+					"description": "Now manager and reviewer can give recommendation for promotion of employee while doing goals evaluation",
+					"graphics": [],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+                {
+					"title": "Pin Menu",
+					"sub_title": "Arrange menu according to your need",
+					"description": "Now you can arrange menu, pin them and sort them according to your need. This will auto sync across all your devices.",
+					"graphics": ["https://zinghrcore.github.io/images/pin-menu1.png","https://zinghrcore.github.io/images/pin-menu2.png","https://zinghrcore.github.io/images/pin-menu3.png"],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "flashcard",
+					"link_for_more_details": ""
+
 				}
 			]
 		}
