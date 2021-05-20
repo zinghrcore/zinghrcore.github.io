@@ -3,6 +3,7 @@
     "message":"success",
     "data":{
         "whatsNewJsonPath":"https://zinghrcore.github.io/js/whats_new.json",
+        "whatsNewJsonPathDev":"https://zinghrcore.github.io/js/whats_new_dev.json",
         "isAppMaintenanceOn":false,
         "showAnyAppLaunchMessage":false,
         "showWhatsNew":true,
