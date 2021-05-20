@@ -1,0 +1,114 @@
+{
+	"code": 1,
+	"message": "sucess",
+	"data": [
+        {
+			"app_version": "4.14.0",
+			"app_code_version": "876",
+			"order": "1",
+			"platform": "android and iOS",
+			"release_date": "31 March 2021",
+			"features": [
+                {
+					"title": "TAX 2 Win - file ITR",
+					"sub_title": "Real time attendance by continuous face scanning",
+					"description": "Register your face, register your subordinates face attendance, take attendance and approve face registration IDs from your on login.",
+					"graphics": ["https://zinghrcore.github.io/images/face-attendance1.png","https://zinghrcore.github.io/images/face-attendance2.png","https://zinghrcore.github.io/images/face-attendance3.png"],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+				{
+					"title": "Face Attendance continuous mode",
+					"sub_title": "Real time attendance by continuous face scanning",
+					"description": "Register your face, register your subordinates face attendance, take attendance and approve face registration IDs from your on login.",
+					"graphics": ["https://zinghrcore.github.io/images/face-attendance1.png","https://zinghrcore.github.io/images/face-attendance2.png","https://zinghrcore.github.io/images/face-attendance3.png"],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+                {
+					"title": "Digital ID",
+					"sub_title": "Digital ID with continuous scanning",
+					"description": "Now Digital ID have continuous scanning with 4 second timer",
+					"graphics": ["https://zinghrcore.github.io/images/digital-id1.jpg","https://zinghrcore.github.io/images/digital-id2.png","https://zinghrcore.github.io/images/digital-id3.jpg"],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+                {
+					"title": "OKR",
+					"sub_title": "Digital way of Goals-setting and Tracking with Outcomes",
+					"description": "Objectives and key results is a goal-setting framework for defining and tracking objectives and their outcomes.",
+					"graphics": ["https://zinghrcore.github.io/images/OKR1.png","https://zinghrcore.github.io/images/OKR2.png","https://zinghrcore.github.io/images/OKR3.png","https://zinghrcore.github.io/images/OKR4.png","https://zinghrcore.github.io/images/OKR5.png"],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+                {
+					"title": "Leave cancellation",
+					"sub_title": "Now applied leave can be cancel from mobile app",
+					"description": "Users can cancel applied leaves from mobile also and can cancel approved as well and approver flow will run as per configuration.",
+					"graphics": [],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+                {
+					"title": "E-PMS Evaluation and with promotion recommendation",
+					"sub_title": "Promotion recommendation now part of evaluation",
+					"description": "Now manager and reviewer can give recommendation for promotion of employee while doing goals evaluation",
+					"graphics": [],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+                {
+					"title": "Pin Menu",
+					"sub_title": "Arrange menu according to your need",
+					"description": "Now you can arrange menu, pin them and sort them according to your need. This will auto sync across all your devices.",
+					"graphics": ["https://zinghrcore.github.io/images/pin-menu1.png","https://zinghrcore.github.io/images/pin-menu2.png","https://zinghrcore.github.io/images/pin-menu3.png"],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "flashcard",
+					"link_for_more_details": ""
+
+				}
+			]
+		}
+	]
+}
