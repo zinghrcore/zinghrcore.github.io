@@ -10,9 +10,9 @@
 			"release_date": "31 March 2021",
 			"features": [
                 {
-					"title": "TAX 2 Win - file ITR",
-					"sub_title": "Real time attendance by continuous face scanning",
-					"description": "Register your face, register your subordinates face attendance, take attendance and approve face registration IDs from your on login.",
+					"title": "File ITR using Tax2Win",
+					"sub_title": "Easiest Way of e-filing your Income Tax Return in India",
+					"description": "Use ZingID app to file ITR in collaboration with Tax2Win for smoothest and easiest tax filing in India",
 					"graphics": ["https://zinghrcore.github.io/images/face-attendance1.png","https://zinghrcore.github.io/images/face-attendance2.png","https://zinghrcore.github.io/images/face-attendance3.png"],
 					"notes": "",
 					"video_embedded": [{
