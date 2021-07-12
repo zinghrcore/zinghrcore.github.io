@@ -3,11 +3,11 @@
 	"message": "sucess",
 	"data": [
         {
-			"app_version": "4.14.0",
-			"app_code_version": "876",
+			"app_version": "4.17.1",
+			"app_code_version": "883",
 			"order": "1",
 			"platform": "android and iOS",
-			"release_date": "31 March 2021",
+			"release_date": "12 July 2021",
 			"features": [
                 {
 					"title": "Face ID and Fingerprint base login",
