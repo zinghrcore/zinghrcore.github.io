@@ -9,6 +9,45 @@
 			"platform": "android and iOS",
 			"release_date": "31 March 2021",
 			"features": [
+                 {
+					"title": "Face ID and Fingerprint base login",
+					"sub_title": "Login by registered fingerprint and face id in ZingHR App",
+					"description": "After login, the application will ask you to set up your new login credentials by using your registered fingerprint or face id if your device supports bio-metric features and you have turned on this feature in your device. You can register/de-register from the setting screen as well. Ask your HR to turn on this feature",
+					"graphics": [
+                                    "https://zinghrcore.github.io/images/fingerprint-1.jpg",
+                                    "https://zinghrcore.github.io/images/fingerprint-2.jpg",
+                                    "https://zinghrcore.github.io/images/face-id-1.jpeg",
+                                    "https://zinghrcore.github.io/images/face-id-2.jpeg",
+                                    "https://zinghrcore.github.io/images/face-id-3.jpeg",
+                                    "https://zinghrcore.github.io/images/face-id-4.jpeg"
+                                ],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
+                {
+					"title": "HeadsUp",
+					"sub_title": "No more surprise absence, give HeadsUp to your manager and team",
+					"description": "Inform your manager and team about your sudden absence in case of any emergency or any other reason.",
+					"graphics": [
+                                    "https://zinghrcore.github.io/images/headsup-1.jpg",
+                                    "https://zinghrcore.github.io/images/headsup-2.jpg",
+                                    "https://zinghrcore.github.io/images/headsup-3.jpg"
+                                ],
+					"notes": "",
+					"video_embedded": [{
+						"title": "",
+						"video_src": "",
+						"thumbnail": ""
+					}],
+					"navigation": "BulletPoints",
+					"link_for_more_details": ""
+				},
                 {
 					"title": "File ITR using Tax2Win",
 					"sub_title": "Easiest Way of e-filing your Income Tax Return in India",
